@@ -1,2 +1,4 @@
-file.log
-
+*.log
+*.db
+/target
+/bin
